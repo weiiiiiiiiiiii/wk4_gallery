@@ -16,8 +16,8 @@ function Detail() {
     return (
         <div>
             <Header
-                title="This is a book"
-                slogan="I like apple juice"
+                title="Books Detail"
+                slogan="Go Straight Turn Right"
             />
             <BooksDetail book={book} />
             <Footer />
